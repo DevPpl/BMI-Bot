@@ -1,3 +1,7 @@
+# Github URL
+GitHub repository URL
+- https://github.com/DevPpl/BMI-Web-Bot.git
+
 # BMI-Bot
 BMI Bot
 
